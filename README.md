@@ -4,7 +4,8 @@ Engineering design package for a belt-driven asymmetrical vertical spinner on **
 
 The Fury chassis and drive system are in a separate repository: [Xcode1234/battlebot](https://github.com/Xcode1234/battlebot). This repository covers the weapon system and the shared control electronics and firmware.
 
-**Author:** Dinuka Senevirathne — BEng (Hons) Electrical and Electronic Engineering, ICBT Kandy Campus / LJMU
+**Author:** Dinuka Senevirathne —  Electrical and Electronic Engineering/ LJMU, Pathmanathan Pramath Biomedical Engineering / LJMU
+
 
 > **Note on figures:** speeds, energies and masses in this repository are design calculations. Measured values should replace them as the test plan in [docs/TEST_PLAN.md](docs/TEST_PLAN.md) is carried out.
 
